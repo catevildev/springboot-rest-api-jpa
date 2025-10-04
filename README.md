@@ -133,8 +133,8 @@ src/main/java/com/catevildev/atividade/
 ```bash
 curl -X POST http://localhost:8080/api/usuarios   -H "Content-Type: application/json"   -d '{
     "nome": "João Silva",
-    "email": "joao@email.com",
-    "telefone": "11999999999"
+    "email": "joao@gmail.com",
+    "telefone": "66999224466"
   }'
 ```
 
